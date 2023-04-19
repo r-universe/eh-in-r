@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "RCTS"]
 	path = RCTS
-	url = https://github.com/cran/RCTS
+	url = https://github.com/eh-in-r/rcts
 	shallow = true
 	registered = true
